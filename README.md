@@ -31,7 +31,7 @@ Ensure the following packages are installed:
 - `table_extraction`
 - `post_processing`
 
-You may also need other dependencies such as `paddleOCR` for OCR and image handling.
+You may also need other dependencies such as `paddleOCR` and `opencv` for OCR and image handling.
 
 ## Installation
 
